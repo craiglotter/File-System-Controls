@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExpTreeLib", "ExpTreeLib\ExpTreeLib.vbproj", "{22D53870-1B39-4FA2-92D7-1F4B7D3DF0C8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExpTree_Demo", "ExpTree_Demo\ExpTree_Demo.vbproj", "{EA960086-714E-436C-A0B4-C11CEE7D5CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{22D53870-1B39-4FA2-92D7-1F4B7D3DF0C8}.Debug.ActiveCfg = Debug|.NET
+		{22D53870-1B39-4FA2-92D7-1F4B7D3DF0C8}.Debug.Build.0 = Debug|.NET
+		{22D53870-1B39-4FA2-92D7-1F4B7D3DF0C8}.Release.ActiveCfg = Release|.NET
+		{22D53870-1B39-4FA2-92D7-1F4B7D3DF0C8}.Release.Build.0 = Release|.NET
+		{EA960086-714E-436C-A0B4-C11CEE7D5CAA}.Debug.ActiveCfg = Debug|.NET
+		{EA960086-714E-436C-A0B4-C11CEE7D5CAA}.Debug.Build.0 = Debug|.NET
+		{EA960086-714E-436C-A0B4-C11CEE7D5CAA}.Release.ActiveCfg = Release|.NET
+		{EA960086-714E-436C-A0B4-C11CEE7D5CAA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
